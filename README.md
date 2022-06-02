@@ -3,7 +3,7 @@
 - 🌱 I’m a rising third-year student at Vanderbilt University, studying computer science and economics. I'm also on track to graduate one semester early!
 - 💞️ I aspire to work in either data engineering, data science, or software engineering post-grad. 
 - 📫 How to reach me: brenoreilly17@gmail.com
-- 👀 Recently, I put my web development skills to the test and created my own personal website! I crafted it with a mixture of HTML and custom CSS.
+- 👀 Recently, I put my web development skills to the test and created my own personal website! I crafted it with a mixture of HTML and custom CSS. Check it out - www.brendan-oreilly.com
 
 <!---
 brenoreilly17/brenoreilly17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
